@@ -1,5 +1,3 @@
-import { describe, it, expect } from "vitest";
-
 describe("app", (): void => {
   describe("add", (): void => {
     it("should be correct", (): void => {
